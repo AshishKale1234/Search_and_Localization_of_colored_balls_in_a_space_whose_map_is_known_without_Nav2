@@ -1,0 +1,29 @@
+# ROS 2 / colcon build artifacts
+**/build/
+**/install/
+**/log/
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+
+# IDEs/editors
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ROS bag / recordings (optional)
+*.bag
+*.db3
+*.sqlite3
+
+# Misc
+*.tmp
+*.swp
+*~
