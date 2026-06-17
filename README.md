@@ -1,5 +1,7 @@
 # Search and Localization of Colored Objects (No Nav2)
 
+Video demo: https://www.dropbox.com/scl/fi/q5rjpag56otxfj9ec58rk/task3.mp4?rlkey=fvukagmbe9veauqqqq290m7ya&st=vbvikoyw&dl=0
+
 - Autonomous search and localization of colored spherical objects in a **known indoor environment**
 - Implemented using **TurtleBot3** and **ROS 2**
 - Known map localization using **AMCL**
